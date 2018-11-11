@@ -1,0 +1,22 @@
+TITL Sn-19595-7369-56 -0.0612 41.184009 -4.09565136E+003 0 0 2 (C2/m) n - 1
+REM
+REM Run started: Sun, 11 Nov 2018 11:15:35 +0000 in /home/s1422421/work/Z2Pack/examples/fp/airss-0.9.1/examples/Sn2
+REM CASTEP 18.1 from code version 70483bd0ad64+ Sun, 10 Dec 2017 12:18:29 +0000
+REM Functional Perdew Burke Ernzerhof Relativity Koelling-Harmon Dispersion off
+REM Cut-off 250.0000 eV Grid scale 1.7500 Gmax 14.1758 1/A FBSC none
+REM MP grid 4 4 3 Offset 0.000 0.000 0.000 No. kpts 24 Spacing 0.1
+REM
+REM ./Sn.cell (a4412390f17ebc634eab8b3951e8cb19)
+REM AIRSS Version 0.9.1 bugfix July 2018 build 013d7b7c2542+ Fri, 06 Jul 2018 19:26:36 +0100
+REM compiler GCC version 4.8.5 20150623 (Red Hat 4.8.5-28)
+REM options -cpp -mtune=generic -march=x86-64 -g -O0
+REM seed -116976728 -258482157 -599632299 -1443697412 1481635532 561460876 -1062466750 -784259082 1128536255 -950783705 899862813 -1950907543
+REM
+REM Sn 3|2.2|7|7|9|50:51:42(qc=5)
+REM 
+CELL 1.54180    2.98385    2.99732    4.63926   92.06257   92.29203   96.17123
+LATT -1
+SFAC Sn 
+Sn     1  0.4100266333444  0.0222840445148  0.9109111829247 1.0
+Sn     1  0.9089374666556  0.5234143554852  0.4108236170753 1.0
+END
